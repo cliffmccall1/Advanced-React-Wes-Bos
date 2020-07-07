@@ -1,5 +1,11 @@
 This is the project for Wes Bos's Advanced React Course. For more information see below.
 
+
+
+
+
+
+
 ![Advanced React & GraphQL](https://advancedreact.com/images/ARG/arg-facebook-share.png)
 
 # Advanced React & GraphQL
