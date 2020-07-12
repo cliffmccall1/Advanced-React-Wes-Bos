@@ -3,12 +3,9 @@ import styled, { keyframes } from 'styled-components';
 const loading = keyframes`
   from {
     background-position: 0 0;
-    /* rotate: 0; */
   }
-
   to {
     background-position: 100% 100%;
-    /* rotate: 360deg; */
   }
 `;
 
@@ -49,7 +46,6 @@ const Form = styled.form`
   fieldset {
     border: 0;
     padding: 0;
-
     &[disabled] {
       opacity: 0.5;
     }
